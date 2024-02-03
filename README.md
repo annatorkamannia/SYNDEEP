@@ -39,5 +39,5 @@ SYNDEEP is a deep neural network model developed for predicting drug synergy in 
 <h3>Citation</h3>
 <ul>
    <li>If you used our work and found the provided data helpful please cite:</li>
-   <p>Torkamannia, A., Omidi, Y. & Ferdousi, R. SYNDEEP: a deep learning approach for the prediction of cancer drugs synergy. Sci Rep 13, 6184 (2023). https://doi.org/10.1038/s41598-023- 33271-</p>
+   <p>Torkamannia, A., Omidi, Y. & Ferdousi, R. SYNDEEP: a deep learning approach for the prediction of cancer drugs synergy. Sci Rep 13, 6184 (2023).https://doi.org/10.1038/s41598-023-33271-3</p>
 </ul>
